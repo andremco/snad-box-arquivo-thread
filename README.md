@@ -1,0 +1,1 @@
+# snad-box-arquivo-thread
